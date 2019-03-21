@@ -1,5 +1,5 @@
 import React from 'react';
-import { Layout } from 'gatsby-theme-style';
+import { Layout } from '@jlengstorf/gatsby-theme-style';
 import { Link } from 'gatsby';
 
 const Home = () => (

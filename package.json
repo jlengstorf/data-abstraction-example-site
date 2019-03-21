@@ -8,8 +8,8 @@
     "build": "gatsby build"
   },
   "dependencies": {
+    "@jlengstorf/gatsby-theme-style": "^1.0.6",
     "gatsby": "^2.2.1",
-    "@jlengstorf/gatsby-theme-style": "*",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   }
